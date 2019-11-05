@@ -1,0 +1,89 @@
+body {
+	font-size: 12px;
+	color: #FFF;
+	background-color: gray;
+	font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+	background-color: white;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+ padding-top: 25px;
+}
+
+.navbar-brand h1 {  
+ font-family:  Arial, Helvetica, sans-serif;
+ color: black;
+ font-size: 2em;
+ margin-top: 0;
+ margin-bottom: 0;
+ line-height: .15;
+}
+
+#nav-list {
+ font-size: 1.7em;
+ margin-top: 10px;
+ font-weight: bold;
+}
+
+#nav-list a {
+ color: black;
+}
+
+#nav-list a:hover {
+ background:  gray;
+}
+
+ #nav-list a span {
+ font-size: 2em;
+}	
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+ border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle{
+ clear: both;
+ margin-top: -42px;
+}
+
+.menu{
+	color: black;
+	font-size: .9em;
+	font-family: Helvetica;
+	margin-bottom: 20px;
+}
+
+    #Chicken,  #Beef, #Sushi {
+
+      font-family: Helvetica;
+      font-size: 25px;
+      color: black;
+      right: 0;
+      top: 0;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      text-align: center;
+      }
+
+    .food{
+    	color: black;
+    	margin-left: 10px;
+    	margin-right: 10px;
+    	font-size: 20px;
+    }
+
+
+    .box {
+      position: relative;
+      margin: 10px 10px;
+      background-color: white;
+      overflow: auto;
+      border: 2px solid black;
+      float: left;
+      }
